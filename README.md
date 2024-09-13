@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Rohansarna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Rohansarna/Rohansarna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Leetcode Stats](https://leetcard.jacoblin.cool/Rohans07)
+<a href="https://github.com/Rohansarna/Rohansarna">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohansarna/Rohansarna/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Rohansarna/Rohansarna/main/light_mode.svg">
+  </picture>
+</a>
